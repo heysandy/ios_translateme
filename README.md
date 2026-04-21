@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+https://github.com/heysandy/ios_translateme/blob/main/TranslateMe/translateme.gif
 
 ## Notes
 
